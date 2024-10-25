@@ -1,2 +1,4 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+
+# Description
+
+### Scrollable Tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip doesn't fit on the screen.
